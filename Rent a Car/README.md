@@ -1,0 +1,1 @@
+Aplicación web de alquiler de vehículos utilizando ASP.NET y SQL Server como base de datos. El sistema permite a los usuarios visualizar los vehículos disponibles, registrar la entrega y recepción de vehículos, todo a través de una interfaz altamente intuitiva y de facil uso. 
