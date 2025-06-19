@@ -1,1 +1,0 @@
-Aplicación de escritorio desarrollada en Delphi, utilizando la librería VCL para la interfaz gráfica. Esta aplicación calcula de forma precisa las cuotas fijas mensuales de un préstamo, hasta su finalización, aplicando una fórmula compleja basada en los datos proporcionados por el usuario. 
